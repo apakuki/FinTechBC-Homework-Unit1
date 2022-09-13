@@ -39,6 +39,15 @@ What solution does this company offer that their competitors do not or cannot of
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
+1. Goodwill Charted Accountants
+2. WealthSafe
+3. Tax On-Chain
+4. KovaTax
+5. FullStack
+6. CryptoTax
+7. Munro's Cryptocurrency Accountants
+8. CryptoTaxAus
+9. MHPrivate
 
 
 ## Results
