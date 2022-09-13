@@ -1,6 +1,6 @@
 # FinTechBC-Homework-Unit1
 
-# TITLE
+# A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia
 
 ## Overview and Origin
 
