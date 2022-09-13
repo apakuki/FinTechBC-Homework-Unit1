@@ -6,7 +6,10 @@
 
 * Cryptocate
 
-* When was the company incorporated?
+* Cryptocate was incorporated in 2017 with the following mission statement
+
+> Cryptocate is an innovative blockchain education and advisory company proudly based in Adelaide, South Australia. We are dedicated to: development of the blockchain ecosystem in Australia, improvement of consumer protection surrounding digital assets with education, and support of business growth with innovative new business models.
+
 
 * Who are the founders of the company?
 
