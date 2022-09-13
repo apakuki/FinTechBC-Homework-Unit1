@@ -1,17 +1,19 @@
 # FinTechBC-Homework-Unit1
 
+![Cryptocate Logo 2021](./Images/cryptocate-logo-2021.png)
 # A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia
 
 ## Overview and Origin of Cryptocate
-
-* Cryptocate
 
 * Cryptocate was incorporated in 2017 with the following mission statement
 
 > Cryptocate is an innovative blockchain education and advisory company proudly based in Adelaide, South Australia. We are dedicated to: development of the blockchain ecosystem in Australia, improvement of consumer protection surrounding digital assets with education, and support of business growth with innovative new business models.
 
 
-* Who are the founders of the company?
+* The founders of the company are:
+
+1. Calln Sarre
+2. Marc Phillis
 
 * How did the idea for the company (or project) come about?
 
