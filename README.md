@@ -1,4 +1,4 @@
-# FinTechBC-Homework-Unit1
+A# FinTechBC-Homework-Unit1
 
 ![Cryptocate Logo 2021](./Images/cryptocate-logo-2021.png)
 # A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia
@@ -15,7 +15,9 @@
 1. Calln Sarre
 2. Marc Phillis
 
-* How did the idea for the company (or project) come about?
+* The company came about after the ATO began cracking down on cryptocurrency traders by obtaining data relating to cryptocurrency transactions from cryptocurrency designated service providers
+(ATO2019). The ATO isusing this data as part of their data matching protocol  to ensure all
+Australian’s are compliant by cryptocurrencytaxregulation.
 
 * How is the company funded? How much funding have they received?
 
