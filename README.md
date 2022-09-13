@@ -2,9 +2,9 @@
 
 # A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia
 
-## Overview and Origin
+## Overview and Origin of Cryptocate
 
-* Name of company
+* Cryptocate
 
 * When was the company incorporated?
 
