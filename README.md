@@ -24,7 +24,7 @@ No information found on any funding activities
 
 ## Business Activities:
 
-#* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve?
 Cryptocate aims 
 
 * Investors
