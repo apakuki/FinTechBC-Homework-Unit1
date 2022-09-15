@@ -3,6 +3,8 @@
 ![Cryptocate Logo 2021](./Images/cryptocate-logo-2021.png)
 # A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia using web application CoinTracking.info
 
+---
+
 ## Overview and Origin of Cryptocate and CoinTracking.info
 
 * [Cryptocate](https://cryptocate.com.au/) (ABN: 40 655 697 127) was incorporated in 21/11/2017 with the following mission statement
@@ -31,6 +33,8 @@
 
 ![Life of a crypto trader](./Images/life_of_a_crypto_trader.png)
 
+---
+
 ## Landscape:
 
 * Cryptocate is one of many companies entering this fast moving space and are heavily involved with the burgeoning weight of bringing crypto enthusiasts and businesses alike into tax compliance in Australia.
@@ -58,6 +62,7 @@
 4. [Cointracker](https://www.cointracker.io)
 5. [CryptoTax Calculator](https://app.cryptotaxcalculator.io)
 
+---
 
 ## Business Activities:
 
@@ -103,6 +108,8 @@
 
 ![DeFi and Tax](./Images/defi_and_tax.png)
 
+---
+
 ## Results
 
 * Cryptocate has had huge impact, bringing a sigh of relief as both retail and business customers are now able to be brought into tax compliance.
@@ -136,6 +143,7 @@ Pages per Visit: 3.68
 Avg Visit Duration: 00:02:53
 
 
+---
 
 ## Recommendations
 
