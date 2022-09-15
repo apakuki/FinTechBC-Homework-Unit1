@@ -9,15 +9,19 @@
 
 > Cryptocate is an innovative blockchain education and advisory company proudly based in Adelaide, South Australia. We are dedicated to: development of the blockchain ecosystem in Australia, improvement of consumer protection surrounding digital assets with education, and support of business growth with innovative new business models.
 
-* [Cointracking.info](https://www.cointracking.info) is the web application that Cryptocate uses to 
-
-> Cointraking.info is a web-based 
-
-
-* The founders of the company are:
+* The founders of the Cryptocate are:
 
 1. Calln Sarre
 2. Marc Phillis
+
+> [Cointracking.info](https://www.cointracking.info) is a web-based application that analyzes your trades and generates real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more. 
+
+
+* The founders of the Cointracking.info are:
+
+CoinTracking was founded in 2012 and went online in April 2013 as the world's first cryptocurrency tax reporting tool and portfolio manager. The company was started with the goal of making cryptocurrency traders’ lives easier - not only during tax season.
+
+
 
 * The company came about after the ATO began cracking down on cryptocurrency traders by obtaining data relating to cryptocurrency transactions from cryptocurrency designated service providers
 (ATO2019). The ATO isusing this data as part of their data matching protocol  to ensure all
@@ -75,11 +79,14 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Cryptocate is heavily involved with the burgeoning weight of bringing crypto enthusiasts and businesses alike into tax compliance in Australia.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+* With massive increase in the onboarding of new retail and business clients into the world of cryptocurrencies being able to collate trading and transactional data across many different exchanges and wallets has been a herculean task to say the least. Having tools that can access exchanges through APIs is a major step foward.
 
-* What are the other major companies in this domain?
+* With potential customers for tax compliance companies being scattered across vast distances using online tools for consultation is key 
+
+* The major Australian accounting companies in this domain are:
 1. Goodwill Charted Accountants
 2. WealthSafe
 3. Tax On-Chain
@@ -89,6 +96,16 @@ What solution does this company offer that their competitors do not or cannot of
 7. Munro's Cryptocurrency Accountants
 8. CryptoTaxAus
 9. MHPrivate
+10. Advanced Accounting and Advisory
+
+* The major web application software companies in this domain are:
+1. [ACCOINTING](https://www.acointing.com)
+2. [Cointraking.info]](https://www.cointracking.info)
+3. [Koinly](https://www.koinly.io)
+4. [Cointracker](https://www.cointracker.io)
+5. [CryptoTax Calculator](https://app.cryptotaxcalculator.io)
+
+
 
 
 ## Results
