@@ -153,7 +153,7 @@ Avg Visit Duration: 00:07:09
 
 * CoinTracking.info's website could do with a fresher look. This is reflected in the higher bounce rate shown above. One of the tools in the tech stack is PHP, I would recommend that it's time to move to a more modern tech stack possibly including Flutter for seamless code development across mobile platforms.
 
-* Currently CoinTracking.info's competitors are doing a better job of this tax loss harvesting.
+* Currently CoinTracking.info's competitors are doing a better job of the tax loss harvesting feature.
 
 ![Tracking and Management](./Images/tracking-n-management.png)
 
