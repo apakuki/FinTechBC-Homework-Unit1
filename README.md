@@ -115,38 +115,32 @@ Cryptocate aims
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-*ACCOINTING metrics:*
-Total Visits
+**ACCOINTING metrics:**
 
+Total Visits
 143.2K
 
 Bounce Rate
-
 40.87%
 
 Pages per Visit
-
 6.22
 
 Avg Visit Duration
-
 00:05:43
 
-*CoinTracking.info Metrics:*
-Total Visits
+**CoinTracking.info Metrics:**
 
+Total Visits
 1.2M
 
 Bounce Rate
-
 63.16%
 
 Pages per Visit
-
 3.68
 
 Avg Visit Duration
-
 00:02:53
 
 * How is your company performing relative to competitors in the same domain?
