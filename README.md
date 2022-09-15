@@ -100,7 +100,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * The major web application software companies in this domain are:
 1. [ACCOINTING](https://www.acointing.com)
-2. [Cointraking.info]](https://www.cointracking.info)
+2. [Cointraking.info](https://www.cointracking.info)
 3. [Koinly](https://www.koinly.io)
 4. [Cointracker](https://www.cointracker.io)
 5. [CryptoTax Calculator](https://app.cryptotaxcalculator.io)
