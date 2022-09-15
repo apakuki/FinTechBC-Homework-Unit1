@@ -77,7 +77,7 @@
 
 * Accountants - Cryptocate can provide consultancy and guidance to other accountants relating to Australian cryptocurrency tax laws. 
 
-* Cryptocate's tech stack include:
+* Cryptocate's tech stack include: [^2]
 1. Python
 2. Hubspot
 3. Facebook Workplace
@@ -159,6 +159,8 @@ Avg Visit Duration: 00:07:09
 
 [^1]: [10 Best Crypto Tax Software](https://medium.com/coinmonks/best-crypto-tax-tool-for-my-money-72d4b430816b) 
 
-[^2]: [zoominfo:CoinTracking.info](https://www.zoominfo.com/c/cointracking/468359451)
+[^2]: [zoominfo:Cryptocate](https://www.zoominfo.com/c/cryptocate/456329150)
+
+[^3]: [zoominfo:CoinTracker](https://www.zoominfo.com/c/cointracking/468359451)
 
 
