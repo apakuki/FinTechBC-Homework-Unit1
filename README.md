@@ -31,6 +31,34 @@
 
 ![Life of a crypto trader](./Images/life_of_a_crypto_trader.png)
 
+## Landscape:
+
+* Cryptocate is one of many companies entering this fast moving space and are heavily involved with the burgeoning weight of bringing crypto enthusiasts and businesses alike into tax compliance in Australia.
+
+* With massive increase in the onboarding of new retail and business clients into the world of cryptocurrencies being able to collate trading and transactional data across many different exchanges and wallets has been a herculean task to say the least. Having tools that can access exchanges through APIs is a major step foward.
+
+* With potential customers for tax compliance companies being scattered across vast distances using online tools for consultation is key 
+
+* The major Australian accounting companies in this domain are:
+1. Goodwill Charted Accountants
+2. WealthSafe
+3. Tax On-Chain
+4. KovaTax
+5. FullStack
+6. CryptoTax
+7. Munro's Cryptocurrency Accountants
+8. CryptoTaxAus
+9. MHPrivate
+10. Advanced Accounting and Advisory
+
+* The major web application software companies in this domain are:
+1. [ACCOINTING](https://www.acointing.com)
+2. [Cointracking.info](https://www.cointracking.info)
+3. [Koinly](https://www.koinly.io)
+4. [Cointracker](https://www.cointracker.io)
+5. [CryptoTax Calculator](https://app.cryptotaxcalculator.io)
+
+
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
@@ -75,34 +103,6 @@ Cryptocate aims
 6. NGINX
 
 ![DeFi and Tax](./Images/defi_and_tax.png)
-
-## Landscape:
-
-* Cryptocate is one of many companies entering this fast moving space and are heavily involved with the burgeoning weight of bringing crypto enthusiasts and businesses alike into tax compliance in Australia.
-
-* With massive increase in the onboarding of new retail and business clients into the world of cryptocurrencies being able to collate trading and transactional data across many different exchanges and wallets has been a herculean task to say the least. Having tools that can access exchanges through APIs is a major step foward.
-
-* With potential customers for tax compliance companies being scattered across vast distances using online tools for consultation is key 
-
-* The major Australian accounting companies in this domain are:
-1. Goodwill Charted Accountants
-2. WealthSafe
-3. Tax On-Chain
-4. KovaTax
-5. FullStack
-6. CryptoTax
-7. Munro's Cryptocurrency Accountants
-8. CryptoTaxAus
-9. MHPrivate
-10. Advanced Accounting and Advisory
-
-* The major web application software companies in this domain are:
-1. [ACCOINTING](https://www.acointing.com)
-2. [Cointracking.info](https://www.cointracking.info)
-3. [Koinly](https://www.koinly.io)
-4. [Cointracker](https://www.cointracker.io)
-5. [CryptoTax Calculator](https://app.cryptotaxcalculator.io)
-
 
 ## Results
 
