@@ -110,7 +110,7 @@
 
 ---
 
-## Results
+## Results:
 
 * Cryptocate has had huge impact, bringing a sigh of relief as both retail and business customers are now able to be brought into tax compliance.
 
@@ -134,18 +134,18 @@ Avg Visit Duration: 00:05:43
 
 **CoinTracking.info Metrics:**
 
-Total Visits: 1.2M
+Total Visits: 826.0K
 
-Bounce Rate: 63.16%
+Bounce Rate: 50.39%
 
-Pages per Visit: 3.68
+Pages per Visit: 4.81
 
-Avg Visit Duration: 00:02:53
+Avg Visit Duration: 00:07:09
 
 
 ---
 
-## Recommendations
+## Recommendations:
 
 * Cryptocate have kept their offerings very slick, this is reflected in their website. I couldn't add to what they are already doing.
 
