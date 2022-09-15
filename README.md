@@ -117,41 +117,34 @@ Cryptocate aims
 
 **ACCOINTING metrics:**
 
-Total Visits
-143.2K
+Total Visits: 143.2K
 
-Bounce Rate
-40.87%
+Bounce Rate: 40.87%
 
-Pages per Visit
-6.22
+Pages per Visit: 6.22
 
-Avg Visit Duration
-00:05:43
+Avg Visit Duration: 00:05:43
+
+
 
 **CoinTracking.info Metrics:**
 
-Total Visits
-1.2M
+Total Visits: 1.2M
 
-Bounce Rate
-63.16%
+Bounce Rate: 63.16%
 
-Pages per Visit
-3.68
+Pages per Visit: 3.68
 
-Avg Visit Duration
-00:02:53
+Avg Visit Duration: 00:02:53
 
-* How is your company performing relative to competitors in the same domain?
-* In terms of features CoinTracking is trailing ACCOINTING, however in terms of revenue ACOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $5-$10 Million.
+* In terms of features CoinTracking is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $5-$10 Million.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Cryptocate have kept their offerings very slick, this is reflected in their website. I couldn't add to what they are already doing.
 
-* Cryptocate can improve by 
+* CoinTracking.info's website could do with a fresher look. This is reflected in the metrics shown above. One of the tools in the tech stack is PHP, I would recommend that it's time to move to a more modern tech stack possibly including Flutter for seamless code development across mobile platforms.
 
 * CoinTracking.info can improve their tax loss harvesting offering in their toolset. This would improve the customers ability to minimise the capital gains tax payable. To implement this capability CoinTracking.info would need to extend their software using the same tool stack they are already using, but just polish the required output from the information already in hand.
 
@@ -162,11 +155,3 @@ Avg Visit Duration
 ![Tracking and Management](./Images/tracking-n-management.png)
 
 
-
-
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
