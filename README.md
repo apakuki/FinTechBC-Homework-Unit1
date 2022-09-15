@@ -98,7 +98,7 @@
 
 * The target audience for CoinTracker.info are those interested in Investing, Banking Credit and Finance, with the largest demographic being the 25-34 year old age group.
 
-* CoinTracking.info tech stack includes: [^2]
+* CoinTracking.info tech stack includes: [^3]
 1. AT&T Internet
 2. Google Font API
 3. JQuery
