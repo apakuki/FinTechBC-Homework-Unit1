@@ -61,8 +61,6 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-Cryptocate aims 
 ### Cryptocate
 * Investors and retail cryptocurrency traders can get overwhelmed with the sheer number of data points they need to collect. Add to this the tax complexities of the new paradigm. With this comes the panic of being non-compliant with the ATO, and without, in the foreseeable future, the ability to meet their tax obligations. Cryptocate, with the use of Cointracking software, was quick to meet the challenge that these Australian investors and retail traders faced.
 
@@ -81,14 +79,14 @@ Cryptocate aims
 4. Litespeed Web Server
 5. Cointracking.info 
 
- ### Cointracking.info 
+### Cointracking.info 
 * CoinTracking.info started out as a cryptocurrency portfolio tracker app and with time, added the tax reporting features which made it far more popular and known in crypto circles. CoinTracking has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms. 
 
 * Cointracking.info has superior data importing capabilities that can import data for from casual traders, to the most sophiticated traders who have trades running into the tens of thousands.
 
 * CoinTracking.info can populate cryptocurrency trading information automatically, it instantly fills a key niche. Instead of having to manually type in every single buy or sell order, CoinTracking.info users can simply import their trading data through exchange APIs or CSV files. The software will do all the rest of the work.
 
-* Cointracking.info also brings together DeFi & Tax capabilities for calculating taxable events from staking, lending, yield farming and other DeFi activities.
+* Cointracking.info also brings together DeFi & Tax capabilities for calculating taxable events from staking, lending, yield farming, NFT's and other DeFi activities.
 
 * With the high volatility in the cryptocurrency space (6000 currencies, 300 exchanges) tracking and management becomes one of Cointracking.info's key strengths. Without this keeping track becomes tedious and eventually unmanageable.
 
@@ -111,9 +109,9 @@ Cryptocate aims
 
 * Furthermore, Cryptocate has provided guidance to the space by being highly active in local associations, nurturing the community as a whole. 
 
-* CoinTracking.info continues to 
+* CoinTracking.info continues to maintain its market lead by providing a solid service however the competition is making ground on this lead.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* In terms of features CoinTracking is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $5-$10 Million.
 
 **ACCOINTING metrics:**
 
@@ -137,7 +135,6 @@ Pages per Visit: 3.68
 
 Avg Visit Duration: 00:02:53
 
-* In terms of features CoinTracking is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $5-$10 Million.
 
 
 ## Recommendations
