@@ -104,7 +104,6 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
 * Cryptocate has had huge impact, bringing a sigh of relief as both retail and business customers are now able to be brought into tax compliance.
 
 * Furthermore, Cryptocate has provided guidance to the space by being highly active in local associations, nurturing the community as a whole. 
