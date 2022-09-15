@@ -35,9 +35,9 @@
 
 * Cryptocate is one of many companies entering this fast moving space and are heavily involved with the burgeoning weight of bringing crypto enthusiasts and businesses alike into tax compliance in Australia.
 
-* With massive increase in the onboarding of new retail and business clients into the world of cryptocurrencies being able to collate trading and transactional data across many different exchanges and wallets has been a herculean task to say the least. Having tools that can access exchanges through APIs is a major step foward.
+* With the massive increase in the onboarding of new retail and business clients to the world of cryptocurrencies, being able to collate trading, transactional and long term investing data across many different exchanges and wallets has been a herculean task to say the least. Having tools that can access exchanges through APIs and pull together all these different data sources is a major step foward.
 
-* With potential customers for tax compliance companies being scattered across vast distances using online tools for consultation is key 
+* With potential customers for tax compliance companies being scattered across vast distances using tools for online consultation is key. Cryptocate uses the Google suite of productivity tools. 
 
 * The major Australian accounting companies in this domain are:
 1. Goodwill Charted Accountants
@@ -62,13 +62,13 @@
 ## Business Activities:
 
 ### Cryptocate
-* Investors and retail cryptocurrency traders can get overwhelmed with the sheer number of data points they need to collect. Add to this the tax complexities of the new paradigm. With this comes the panic of being non-compliant with the ATO, and without, in the foreseeable future, the ability to meet their tax obligations. Cryptocate, with the use of Cointracking software, was quick to meet the challenge that these Australian investors and retail traders faced.
+* Investors and retail cryptocurrency traders can get overwhelmed with the sheer number of data points they need to collect. Add to this the tax complexities of the new paradigm and we have a recipe for disaster. With this comes the panic of being non-compliant with the ATO, and without, in the foreseeable future, the ability to meet their tax obligations. Cryptocate, with the use of Cointracking software, was quick to meet the challenge that these Australian investors and retail traders faced.
 
 * Furthermore Cryptocate is a cryptocurrency specialist, which means clients don’t have to change their accountant.
 
-* SMSF - For those Australians choosing to manage their own retirement plans Cryptocate can help them report their cryptocurrency tax so they stay compliant with the SMSF framework.
+* SMSF - For those Australians choosing to manage their own retirement plans Cryptocate can help them report their cryptocurrency tax so that they stay compliant within the SMSF framework.
 
-* Business - For businesses who receive payments in cryptocurrencies as part of their income Cryptocate is able to assist in managing this process with regards to ATO compliance.
+* Business - For businesses who receive payments in cryptocurrencies as part of their income Cryptocate is able to assist in managing this process with regards to ATO reporting and compliance.
 
 * Accountants - Cryptocate can provide consultancy and guidance to other accountants relating to Australian cryptocurrency tax laws. 
 
@@ -79,18 +79,18 @@
 4. Litespeed Web Server
 5. Cointracking.info 
 
-### Cointracking.info 
-* CoinTracking.info started out as a cryptocurrency portfolio tracker app and with time, added the tax reporting features which made it far more popular and known in crypto circles. CoinTracking has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms. 
+### CoinTracking.info 
+* CoinTracking.info started out as a cryptocurrency portfolio tracker app and with time, added the tax reporting features which made it far more popular and known in crypto circles. CoinTracking.info has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms. 
 
-* Cointracking.info has superior data importing capabilities that can import data for from casual traders, to the most sophiticated traders who have trades running into the tens of thousands.
+* CoinTracking.info has superior data importing capabilities that can import data from the casual trader, to the most sophiticated of traders who have trades running into the hundreds of thousands.
 
-* CoinTracking.info can populate cryptocurrency trading information automatically, it instantly fills a key niche. Instead of having to manually type in every single buy or sell order, CoinTracking.info users can simply import their trading data through exchange APIs or CSV files. The software will do all the rest of the work.
+* CoinTracking.info can populate cryptocurrency trading information automatically, it instantly fills a key niche. Instead of having to manually type in every single buy or sell order, CoinTracking.info users can simply import their trading data through exchange APIs or CSV files. The software will do the rest of the work.
 
-* Cointracking.info also brings together DeFi & Tax capabilities for calculating taxable events from staking, lending, yield farming, NFT's and other DeFi activities.
+* CoinTracking.info also brings together DeFi & Tax capabilities for calculating taxable events from staking, lending, yield farming, NFT's and other DeFi activities.
 
-* With the high volatility in the cryptocurrency space (6000 currencies, 300 exchanges) tracking and management becomes one of Cointracking.info's key strengths. Without this keeping track becomes tedious and eventually unmanageable.
+* With the high volatility in the cryptocurrency markets (6000 currencies, 300 exchanges) tracking and management becomes one of Cointracking.info's key strengths. Without this keeping track becomes tedious and eventually unmanageable.
 
-* The target audience for CoinTracker.info are those interested in Investing, Banking Credit and Finance, with the largest demographic being the 25-34 age group.
+* The target audience for CoinTracker.info are those interested in Investing, Banking Credit and Finance, with the largest demographic being the 25-34 year old age group.
 
 * Cointracking.info tech stack includes:
 1. AT&T Internet
@@ -140,13 +140,11 @@ Avg Visit Duration: 00:02:53
 
 * Cryptocate have kept their offerings very slick, this is reflected in their website. I couldn't add to what they are already doing.
 
+* CoinTracking.info can improve their tax loss harvesting offering in their toolset. This would improve the customers ability to minimise the capital gains tax payable. To implement this capability CoinTracking.info would need to extend their software using the same tool stack they are already using, but just polish the required output from the information already in hand. Using the current technology stack would reduce reskilling, and implementation time.
+
 * CoinTracking.info's website could do with a fresher look. This is reflected in the metrics shown above. One of the tools in the tech stack is PHP, I would recommend that it's time to move to a more modern tech stack possibly including Flutter for seamless code development across mobile platforms.
 
-* CoinTracking.info can improve their tax loss harvesting offering in their toolset. This would improve the customers ability to minimise the capital gains tax payable. To implement this capability CoinTracking.info would need to extend their software using the same tool stack they are already using, but just polish the required output from the information already in hand.
-
-* Using the current technology stack would reduce reskilling, and implementation time.
-
-* Currently Cointracking.info's competitors are doing a better job of this.
+* Currently CoinTracking.info's competitors are doing a better job of this.
 
 ![Tracking and Management](./Images/tracking-n-management.png)
 
