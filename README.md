@@ -120,7 +120,7 @@
 
 * In terms of features CoinTracking.info is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $2-$5 Million.
 
-**ACCOINTING metrics:**
+**ACCOINTING metrics:** [^4]
 
 Total Visits: 143.2K
 
@@ -132,7 +132,7 @@ Avg Visit Duration: 00:05:43
 
 
 
-**CoinTracking.info Metrics:**
+**CoinTracking.info Metrics:** [^5]
 
 Total Visits: 826.0K
 
@@ -161,6 +161,8 @@ Avg Visit Duration: 00:07:09
 
 [^2]: [zoominfo:Cryptocate](https://www.zoominfo.com/c/cryptocate/456329150)
 
-[^3]: [zoominfo:CoinTracker](https://www.zoominfo.com/c/cointracking/468359451)
+[^3]: [zoominfo:CoinTracker.info](https://www.zoominfo.com/c/cointracking/468359451)
 
+[^4]: [similarweb: ACCOINTING](https://www.similarweb.com/website/accointing.com/#overview)
 
+[^5]: [similarweb: CoinTracking.info](https://www.similarweb.com/website/cointracking.info/#overview)
