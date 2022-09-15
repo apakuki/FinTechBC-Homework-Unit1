@@ -1,9 +1,9 @@
 ### FinTechBC-Homework-Unit1
 
 ![Cryptocate Logo 2021](./Images/cryptocate-logo-2021.png)
-# A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia using web application Cointracking.info
+# A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia using web application CoinTracking.info
 
-## Overview and Origin of Cryptocate and Cointracking.info
+## Overview and Origin of Cryptocate and CoinTracking.info
 
 * [Cryptocate](https://cryptocate.com.au/) (ABN: 40 655 697 127) was incorporated in 21/11/2017 with the following mission statement
 
@@ -23,7 +23,7 @@
 
 * CoinTracking.info was founded in 2012 and went online in April 2013 as the world's first cryptocurrency tax reporting tool and portfolio manager. The company was started with the goal of making cryptocurrency traders’ lives easier - not only during tax season.
 
-* The founder of the Cointracking.info is:
+* The founder of the CoinTracking.info is:
 
 1. [Dariusz Kachel](https://www.linkedin.com/in/dariusz-kachel/)
 
@@ -53,7 +53,7 @@
 
 * The major web application software companies in this domain are:
 1. [ACCOINTING](https://www.acointing.com)
-2. [Cointracking.info](https://www.cointracking.info)
+2. [CoinTracking.info](https://www.cointracking.info)
 3. [Koinly](https://www.koinly.io)
 4. [Cointracker](https://www.cointracker.io)
 5. [CryptoTax Calculator](https://app.cryptotaxcalculator.io)
@@ -92,7 +92,7 @@
 
 * The target audience for CoinTracker.info are those interested in Investing, Banking Credit and Finance, with the largest demographic being the 25-34 year old age group.
 
-* Cointracking.info tech stack includes:
+* CoinTracking.info tech stack includes:
 1. AT&T Internet
 2. Google Font API
 3. JQuery
@@ -110,7 +110,7 @@
 
 * CoinTracking.info continues to maintain its market lead by providing a solid service however the competition is making ground on this lead.
 
-* In terms of features CoinTracking is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $5-$10 Million.
+* In terms of features CoinTracking.info is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $5-$10 Million.
 
 **ACCOINTING metrics:**
 
