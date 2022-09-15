@@ -10,26 +10,24 @@
 > Cryptocate is an innovative blockchain education and advisory company proudly based in Adelaide, South Australia. We are dedicated to: development of the blockchain ecosystem in Australia, improvement of consumer protection surrounding digital assets with education, and support of business growth with innovative new business models.
 
 * The company came about after the ATO began cracking down on cryptocurrency traders by obtaining data relating to cryptocurrency transactions from cryptocurrency designated service providers
-(ATO2019). The ATO isusing this data as part of their data matching protocol alongside Australian domiciled exchanges, to ensure all Australian’s are compliant by cryptocurrency tax regulation.
+(ATO2019). The ATO is using this data as part of their data matching protocol alongside Australian domiciled exchanges, to ensure all Australian’s are compliant by cryptocurrency tax regulation.
 
 * The founders of the Cryptocate are:
 
 1. [Calln Sarre](https://www.linkedin.com/in/callansarre/)
 2. [Marc Phillis](https://www.linkedin.com/in/marc-phillis/)
 
-* No information found on any funding activities, it is likely that the company is self funded.
+* Cryptocate reports revenue of less than $5 Million, it is likely that the company is self funded.
 
 > [CoinTracking.info](https://www.cointracking.info) is a web-based application that analyzes your trades and generates real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more. 
 
-
+* CoinTracking.info was founded in 2012 and went online in April 2013 as the world's first cryptocurrency tax reporting tool and portfolio manager. The company was started with the goal of making cryptocurrency traders’ lives easier - not only during tax season.
 
 * The founder of the Cointracking.info is:
 
 1. [Dariusz Kachel](https://www.linkedin.com/in/dariusz-kachel/)
 
-* CoinTracking.info was founded in 2012 and went online in April 2013 as the world's first cryptocurrency tax reporting tool and portfolio manager. The company was started with the goal of making cryptocurrency traders’ lives easier - not only during tax season.
 
-* Cryptocate reports revenue of less than $5 Million
 
 ## Business Activities:
 
@@ -56,7 +54,7 @@ Cryptocate aims
  ### Cointracking.info 
 * CoinTracking.info started out as a cryptocurrency portfolio tracker app and with time, added the tax reporting features which made it far more popular and known in crypto circles. CoinTracking has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms. 
 
-* Cointracking.info has superior data importing capabilities that can import data for casual traders to the most sophiticated traders with the number of trades that run into the tens of thousands.
+* Cointracking.info has superior data importing capabilities that can import data for casual traders to the most sophiticated traders who have trades running into the tens of thousands.
 
 * Cointracking.info also brings together DeFi & Tax capabilities for calculating taxable events from staking, lending, yield farming and other DeFi activities.
 
@@ -68,6 +66,13 @@ What solution does this company offer that their competitors do not or cannot of
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 * Cointracking.info tech stack includes:
+1. AT&T Internet
+2. Google Font API
+3. JQuery
+4. Amazon CloudFront
+5. PHP
+6. NGINX
+
 
 
 
