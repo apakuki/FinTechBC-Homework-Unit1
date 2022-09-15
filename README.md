@@ -10,8 +10,7 @@
 > Cryptocate is an innovative blockchain education and advisory company proudly based in Adelaide, South Australia. We are dedicated to: development of the blockchain ecosystem in Australia, improvement of consumer protection surrounding digital assets with education, and support of business growth with innovative new business models.
 
 * The company came about after the ATO began cracking down on cryptocurrency traders by obtaining data relating to cryptocurrency transactions from cryptocurrency designated service providers
-(ATO2019). The ATO isusing this data as part of their data matching protocol  to ensure all
-Australian’s are compliant by cryptocurrency tax regulation.
+(ATO2019). The ATO isusing this data as part of their data matching protocol alongside Australian domiciled exchanges, to ensure all Australian’s are compliant by cryptocurrency tax regulation.
 
 * The founders of the Cryptocate are:
 
@@ -20,66 +19,56 @@ Australian’s are compliant by cryptocurrency tax regulation.
 
 * No information found on any funding activities, it is likely that the company is self funded.
 
-> [Cointracking.info](https://www.cointracking.info) is a web-based application that analyzes your trades and generates real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more. 
+> [CoinTracking.info](https://www.cointracking.info) is a web-based application that analyzes your trades and generates real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more. 
 
 
 
-* The founder of the Cointracking.info are:
+* The founder of the Cointracking.info is:
 
 1. [Dariusz Kachel](https://www.linkedin.com/in/dariusz-kachel/)
 
-* CoinTracking was founded in 2012 and went online in April 2013 as the world's first cryptocurrency tax reporting tool and portfolio manager. The company was started with the goal of making cryptocurrency traders’ lives easier - not only during tax season.
+* CoinTracking.info was founded in 2012 and went online in April 2013 as the world's first cryptocurrency tax reporting tool and portfolio manager. The company was started with the goal of making cryptocurrency traders’ lives easier - not only during tax season.
 
-* Since its inception, CoinTracking has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms.
-
-* How is the company funded? How much funding have they received?
-No information found on any funding activities
+* Cryptocate reports revenue of less than $5 Million
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 Cryptocate aims 
+### Cryptocate
+* Investors and retail cryptocurrency traders can get overwhelmed with the sheer number of data points they need to collect. Add to this the tax complexities of the new paradigm. With this comes the panic of being non-compliant with the ATO, and without, in the foreseeable future, the ability to meet their tax obligations. Cryptocate, with the use of Cointracking software, was quick to meet the challenge that these Australian investors and retail traders faced.
 
-* Investors
-At Cryptocate, we know that cryptocurrency can be challenging to understand at the best of times, let alone tax time.
+* Furthermore Cryptocate is a cryptocurrency specialist, which means clients don’t have to change their accountant.
 
-We can help you report your cryptocurrency tax, with a professional, accurate, and timely service and a team of real people to talk with.
+* SMSF - For those Australians choosing to manage their own retirement plans Cryptocate can help them report their cryptocurrency tax so they stay compliant with the SMSF framework.
 
-Our pride is in our personalised service, which gives you peace of mind at each stage of the process. 
+* Business - For businesses who receive payments in cryptocurrencies as part of their income Cryptocate is able to assist in managing this process with regards to ATO compliance.
 
-Cryptocate is a cryptocurrency specialist, which means you don’t have to change your accountant.
+* Accountants - Cryptocate can provide consultancy and guidance to other accountants relating to Australian cryptocurrency tax laws. 
 
-* SMSF
-At Cryptocate, we know that cryptocurrency can be challenging to understand at the best of times, let alone tax time.
+* Cryptocate's tech stack include:
+1. Python
+2. Hubspot
+3. Facebook Workplace
+4. Litespeed Web Server
+5. Cointracking.info 
 
-We can help you report your cryptocurrency tax, with a professional, accurate, and timely service and a team of real people to talk with.
+ ### Cointracking.info 
+* CoinTracking.info started out as a cryptocurrency portfolio tracker app and with time, added the tax reporting features which made it far more popular and known in crypto circles. CoinTracking has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms. 
 
-Our pride is in our personalised service, which gives you peace of mind at each stage of the process. 
+* Cointracking.info has superior data importing capabilities that can import data for casual traders to the most sophiticated traders with the number of trades that run into the tens of thousands.
 
-Cryptocate is a cryptocurrency specialist, which means you don’t have to change your accountant.
+* Cointracking.info also brings together DeFi & Tax capabilities for calculating taxable events from staking, lending, yield farming and other DeFi activities.
 
-
-* Business
-If your business has received cryptocurrency as part of its income, make sure that you are compliant with accurate and comprehensive cryptocurrency business income reporting by Cryptocate.
-
-* Accountants
-Cryptocurrency exploded in popularity in 2017 in an unprecedented bull run, motivating a wide range of investors, traders and businesses to join the emerging industry. 
-
- 
-
-The ATO announced a data matching scheme alongside Australian domiciled exchanges, which gives the ATO access to trading data of accounts on those exchanges.
-
- 
-
-Declaring your cryptocurrency activity is a legal requirement when submitting EOFY tax reporting, but complexities remain due to the burgeoning nature of the asset class.
-
-
-
+* With the high volatility in the cryptocurrency space (6000 currencies, 300 exchanges) tracking and management becomes one of Cointracking.info's key strengths. Without this keeping track becomes tedious and eventually unmanageable.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+* Cointracking.info tech stack includes:
+
 
 
 ## Landscape:
