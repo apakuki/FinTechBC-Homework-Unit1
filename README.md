@@ -27,7 +27,9 @@
 
 1. [Dariusz Kachel](https://www.linkedin.com/in/dariusz-kachel/)
 
+* CoinTracking.info reports revenue in $5-$10 Million. Funding status is Corporate backed or Merged/Acquired.
 
+![Life of a crypto trader](./Images/life_of_a_crypto_trader.png)
 
 ## Business Activities:
 
@@ -54,16 +56,15 @@ Cryptocate aims
  ### Cointracking.info 
 * CoinTracking.info started out as a cryptocurrency portfolio tracker app and with time, added the tax reporting features which made it far more popular and known in crypto circles. CoinTracking has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms. 
 
-* Cointracking.info has superior data importing capabilities that can import data for casual traders to the most sophiticated traders who have trades running into the tens of thousands.
+* Cointracking.info has superior data importing capabilities that can import data for from casual traders, to the most sophiticated traders who have trades running into the tens of thousands.
+
+* CoinTracking.info can populate cryptocurrency trading information automatically, it instantly fills a key niche. Instead of having to manually type in every single buy or sell order, CoinTracking.info users can simply import their trading data through exchange APIs or CSV files. The software will do all the rest of the work.
 
 * Cointracking.info also brings together DeFi & Tax capabilities for calculating taxable events from staking, lending, yield farming and other DeFi activities.
 
 * With the high volatility in the cryptocurrency space (6000 currencies, 300 exchanges) tracking and management becomes one of Cointracking.info's key strengths. Without this keeping track becomes tedious and eventually unmanageable.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* The target audience for CoinTracker.info are those interested in Investing, Banking Credit and Finance, with the largest demographic being the 25-34 age group.
 
 * Cointracking.info tech stack includes:
 1. AT&T Internet
@@ -73,8 +74,7 @@ What solution does this company offer that their competitors do not or cannot of
 5. PHP
 6. NGINX
 
-
-
+![DeFi and Tax](./Images/defi_and_tax.png)
 
 ## Landscape:
 
@@ -107,6 +107,11 @@ What solution does this company offer that their competitors do not or cannot of
 ## Results
 
 * What has been the business impact of this company so far?
+* Cryptocate has had huge impact, bringing a sigh of relief as both retail and business customers are now able to be brought into tax compliance.
+
+* Furthermore, Cryptocate has provided guidance to the space by being highly active in local associations, nurturing the community as a whole. 
+
+* CoinTracking.info continues to 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -116,6 +121,20 @@ What solution does this company offer that their competitors do not or cannot of
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Cryptocate can improve by 
+
+* CoinTracking.info can improve their tax loss harvesting offering in their toolset. This would improve the customers ability to minimise the capital gains tax payable. To implement this capability CoinTracking.info would need to extend their software using the same tool stack they are already using, but just polish the required output from the information already in hand.
+
+* Using the current technology stack would reduce reskilling, and implementation time.
+
+* Currently Cointracking.info's competitors are doing a better job of this.
+
+![Tracking and Management](./Images/tracking-n-management.png)
+
+
+
+
 
 * Why do you think that offering this product or service would benefit the company?
 
