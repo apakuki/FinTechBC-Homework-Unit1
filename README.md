@@ -31,7 +31,7 @@
 
 * CoinTracking.info reports revenue in $5-$10 Million. Funding status is Corporate backed or Merged/Acquired.
 
-![Life of a crypto trader](./Images/life_of_a_crypto_trader.png)
+![Life of a crypto trader](./Images/life_of_a_crypto_trader.png) [^1]
 
 ---
 
@@ -98,7 +98,7 @@
 
 * The target audience for CoinTracker.info are those interested in Investing, Banking Credit and Finance, with the largest demographic being the 25-34 year old age group.
 
-* CoinTracking.info tech stack includes:
+* CoinTracking.info tech stack includes: [^2]
 1. AT&T Internet
 2. Google Font API
 3. JQuery
@@ -118,7 +118,7 @@
 
 * CoinTracking.info continues to maintain its market lead by providing a solid service however the competition is making ground on this lead.
 
-* In terms of features CoinTracking.info is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $5-$10 Million.
+* In terms of features CoinTracking.info is trailing ACCOINTING, however in terms of revenue ACCOINTING sits at $1-$2 Million, whereas CoinTracking.info generates $2-$5 Million.
 
 **ACCOINTING metrics:**
 
@@ -156,5 +156,9 @@ Avg Visit Duration: 00:07:09
 * Currently CoinTracking.info's competitors are doing a better job of this.
 
 ![Tracking and Management](./Images/tracking-n-management.png)
+
+[^1]: [10 Best Crypto Tax Software](https://medium.com/coinmonks/best-crypto-tax-tool-for-my-money-72d4b430816b) 
+
+[^2]: [zoominfo:CoinTracking.info](https://www.zoominfo.com/c/cointracking/468359451)
 
 
