@@ -78,6 +78,7 @@
 3. Facebook Workplace
 4. Litespeed Web Server
 5. Cointracking.info 
+6. Google Productivity Suite
 
 ### CoinTracking.info 
 * CoinTracking.info started out as a cryptocurrency portfolio tracker app and with time, added the tax reporting features which made it far more popular and known in crypto circles. CoinTracking.info has accumulated over 1 million users. Its worldwide professional network consists of more than 160 tax advisors and tax lawyers to assist with international tax filing, as well as 1250 corporate clients such as crypto trading companies, fund managers and tax firms. 
