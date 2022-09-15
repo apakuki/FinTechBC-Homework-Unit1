@@ -35,7 +35,18 @@
 
 ---
 
-## Landscape:
+## Regulation Technology (RegTech) Domain trends
+
+* Regtech uses advanced technologies to manage regulatory processes in the financial industry. Its objective is to assist businesses in complying with rules in a more efficient and cost-effective manner. Machine learning, biometrics, cloud computing, big data, and blockchain are all examples of advanced technology used in RegTech. Data analytics, regulatory monitoring, risk management, reporting, regulatory compliance, and fraud detection are also important RegTech tasks. [^6]
+
+* As government policies and country rules change, considerable demands to increase the quality of reported data across numerous regimes and jurisdictions continue to emerge in the industry, propelling the RegTech market forward. 
+
+* Staying compliant with data regulation is more important than ever for organisations, as use of customer data becomes increasingly common, but it’s been common for compliance audits and checks to take longer than desired, leading to available time for other day-to-day tasks being eroded. However, many disruption trends have been introduced by Regtech, that have eased and accelerated regulatory processes. [^7]
+
+
+---
+
+## Landscape that Cryptocate operates in:
 
 * Cryptocate is one of many companies entering this fast moving space and are heavily involved with the burgeoning weight of bringing crypto enthusiasts and businesses alike into tax compliance in Australia.
 
@@ -166,3 +177,7 @@ Avg Visit Duration: 00:07:09
 [^4]: [similarweb: ACCOINTING](https://www.similarweb.com/website/accointing.com/#overview)
 
 [^5]: [similarweb: CoinTracking.info](https://www.similarweb.com/website/cointracking.info/#overview)
+
+[^6]: [RegTech Market size](https://www.globenewswire.com/news-release/2022/05/05/2436453/0/en/Global-RegTech-Market-Size-Share-Industry-Trends-Analysis-Report-By-Component-By-Application-By-Vertical-By-Deployment-Mode-By-Organization-Size-By-Regional-Outlook-and-Forecast-20.html)
+
+[^7]: [RegTech Disruption Trends](https://www.information-age.com/regtech-disruption-trends-digitisation-enhancing-regulatory-processes-123494046/)
