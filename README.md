@@ -151,7 +151,7 @@ Avg Visit Duration: 00:07:09
 
 * CoinTracking.info can improve their tax loss harvesting offering in their toolset. This would improve the customers ability to minimise the capital gains tax payable. To implement this capability CoinTracking.info would need to extend their software using the same tool stack they are already using, but just polish the required output from the information already in hand. Using the current technology stack would reduce reskilling, and implementation time.
 
-* CoinTracking.info's website could do with a fresher look. This is reflected in the metrics shown above. One of the tools in the tech stack is PHP, I would recommend that it's time to move to a more modern tech stack possibly including Flutter for seamless code development across mobile platforms.
+* CoinTracking.info's website could do with a fresher look. This is reflected in the higher bounce rate shown above. One of the tools in the tech stack is PHP, I would recommend that it's time to move to a more modern tech stack possibly including Flutter for seamless code development across mobile platforms.
 
 * Currently CoinTracking.info's competitors are doing a better job of this.
 
