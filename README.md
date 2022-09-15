@@ -1,7 +1,7 @@
 ### FinTechBC-Homework-Unit1
 
 ![Cryptocate Logo 2021](./Images/cryptocate-logo-2021.png)
-# A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia using web application [Cointracking.info](https://www.cointracking.info)  
+# A Case Study on Cryptocate - A company specialising in Cryptocurrency Tax Reporting in Australia using web application Cointracking.info
 
 ## Overview and Origin of Cryptocate and Cointracking.info
 
